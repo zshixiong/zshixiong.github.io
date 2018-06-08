@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/06/08/How-to-build-a-blog-of-HEXO-with-too-much-bugs/</loc>
+    
+    <lastmod>2018-06-08T05:17:45.693Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/06/08/My-First-Post/</loc>
     
     <lastmod>2018-06-08T04:59:17.198Z</lastmod>
